@@ -1,0 +1,6 @@
+{
+  "name": "BD LAND GUARD",
+  "description": "AI-Powered Land Integrity, Verification & Protection Platform for Bangladesh. Intelligent verification layer to cross-check land records, track ownership history, detect inconsistencies, and protect land rights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
